@@ -1,4 +1,4 @@
 # gitdemo
 first repository
 <br>
-git demo
+git demo (project)
